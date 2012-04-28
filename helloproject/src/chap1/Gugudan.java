@@ -14,6 +14,7 @@ public class Gugudan {
 //		Scanner sc=new Scanner(System.in);
 ////
 //		int i=sc.nextInt();
+//one more test command
 		int i;
 		int j;
 		for (i = 2; i <= 9; i++) {
